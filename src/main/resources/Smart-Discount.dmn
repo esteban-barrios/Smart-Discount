@@ -9,8 +9,8 @@
   </dmn:itemDefinition>
   <dmn:itemDefinition id="_18197D32-43E1-4A4B-AB3A-8C0047B3397E" name="plans" isCollection="false">
     <dmn:typeRef>string</dmn:typeRef>
-    <dmn:allowedValues kie:constraintType="expression" id="_C6C6EA25-F767-40F6-B03A-EC2BC05808CE">
-      <dmn:text>"plan 1", "plan 2", "plan 3"</dmn:text>
+    <dmn:allowedValues kie:constraintType="enumeration" id="_C34EF891-0071-4C73-88F8-35E2F241DF4F">
+      <dmn:text>"plan 1", "plan 2"</dmn:text>
     </dmn:allowedValues>
   </dmn:itemDefinition>
   <dmn:itemDefinition id="_1B141FC1-28B5-4E0C-8714-4B00D896BB4C" name="customer" isCollection="false">
