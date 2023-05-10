@@ -51,8 +51,8 @@
         <dmn:inputEntry id="_BBFE4F99-D9FB-43A8-B716-EDE0AB6EA7E6">
           <dmn:text>"19.199.199-1"</dmn:text>
         </dmn:inputEntry>
-        <dmn:outputEntry id="_037C008C-8EAD-41CA-8454-6D704E89777E">
-          <dmn:text>"Pedro"</dmn:text>
+        <dmn:outputEntry id="_19383EF3-7412-4763-94F8-1ADB3A0B661D">
+          <dmn:text>"Juan"</dmn:text>
         </dmn:outputEntry>
         <dmn:outputEntry id="_58AFA9F0-FFE1-43A5-B9FC-089AF22CABCE">
           <dmn:text>false</dmn:text>
